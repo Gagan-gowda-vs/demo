@@ -1,5 +1,4 @@
 # demo
-This is my first GitHub-R
+This is my first GitHub-Repository
 <br>
-
 Author - Gagan
